@@ -1,0 +1,2 @@
+/usr/bin/x86_64-linux-gnu-ld.bfd: cannot open output file build/: Is a directory
+collect2: error: ld returned 1 exit status

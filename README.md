@@ -324,4 +324,6 @@ Q AFTER RoPE   [N=1 H=1 T=4 Dh=4]
 
 ## License
 
-MIT
+Copyright (c) 2026 Venkata Ramana S. All rights reserved.  
+This repository is for personal learning and reference. No part of this code
+may be reproduced or distributed without explicit permission from the author.
